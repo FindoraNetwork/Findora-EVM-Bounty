@@ -6,7 +6,7 @@ Sample folder structure that can be used .
   - 📁 app/src
   - 📁 tests
   - 📁 dist
-  - 📁 misc files(makefile/config etc)
+  - 📄  misc files(makefile/config etc)
   - 📁 docs  
     
 
