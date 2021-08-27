@@ -6,3 +6,4 @@ Ideally sectioned into
 - SmartContracts
 - Makefiles
 - Readme.md
+- TestSection
