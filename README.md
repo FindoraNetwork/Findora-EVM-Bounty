@@ -1,7 +1,7 @@
 # FINDORA-EVM-Bounty
 
-0) Apply for the bounty programme by filling in the type form . Please mention the github account that you (individual or team) will be using to contribute.Use this same account to fork the repo in `Step 1`
-## How to contribute to the bounty programme
+0) Apply for the bounty program by filling in the type form . Please mention the github account that you (individual or team) will be using to contribute.Use this same account to fork the repo in `Step 1`
+## How to contribute to the bounty program
 
 1) Fork the repo to your team Github account.
 2) Raise a PR against the main Repo . Click on `contribute` button on the github UI .
