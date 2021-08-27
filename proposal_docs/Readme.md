@@ -1,4 +1,4 @@
-##This directory will contain a proposal.md
+## This directory will contain a proposal.md
 
 Plan :
 1. Describe what your Dapp will do 

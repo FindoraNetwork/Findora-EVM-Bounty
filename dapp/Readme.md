@@ -1,4 +1,4 @@
-##This directory will contain all files related to application code 
+## This directory will contain all files related to application code 
 
 Sample folder structure that can be used .
 - Application-Name
