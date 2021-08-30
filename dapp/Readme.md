@@ -10,7 +10,7 @@ Sample folder structure that can be used .
   - 📁 docs  
     
 
-This structure is not mandatory. Please feel free to use any folder structure that you are comfortable with ,keeping the following guidlines mind
+This structure is not mandatory. Please feel free to use any folder structure that you are comfortable with ,keeping the following guidlines in mind
 - The code should be contained in one folder
 - The structure should be clear , with separate sections for every component
 - Code should be well documented (docs/comments)
